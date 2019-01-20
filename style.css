@@ -1,0 +1,12 @@
+/*
+ Theme Name:   Kasvun mahdollistajat theme
+ Description:  Child of business consultr wordpress theme
+ Author:       Markus Tyrkkö
+ Author URI:   http://markustyrkko.com/
+ Template:     business-consultr
+ Version:      0.1.0
+*/
+
+body {
+  color: red;
+}
