@@ -7,6 +7,34 @@
  Version:      0.1.0
 */
 
-body {
-  color: red;
+#masthead {
+  padding-bottom: 8px;
+}
+
+.top-header .top-header-left .list a:hover,
+.top-header .top-header-left .list a:active,
+.top-header .top-header-left .list a:focus,
+.socialgroup a:hover,
+.socialgroup a:active,
+.socialgroup a:focus,
+.main-navigation ul.primary-menu > .current-menu-item > a:hover,
+.main-navigation ul.primary-menu > .current-menu-item > a:active,
+.main-navigation ul.primary-menu > .current-menu-item > a:focus {
+  color: #56b85b !important;
+}
+
+div.site-branding {
+  transition: none !important;
+}
+
+.main-navigation ul.primary-menu > .current-menu-item > a {
+  color: #333;
+}
+
+.search-icon {
+  display: none !important;
+}
+
+.socialgroup {
+  padding-top: 8px !important;
 }
